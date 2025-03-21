@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\banana_eCommerce.WebUI.props" />
+</Project>

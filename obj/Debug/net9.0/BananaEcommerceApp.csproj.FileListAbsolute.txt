@@ -164,3 +164,4 @@ D:\Linh\Project\BananaEcommerceApp\obj\Debug\net9.0\refint\BananaEcommerceApp.dl
 D:\Linh\Project\BananaEcommerceApp\obj\Debug\net9.0\BananaEcommerceApp.pdb
 D:\Linh\Project\BananaEcommerceApp\obj\Debug\net9.0\BananaEcommerceApp.genruntimeconfig.cache
 D:\Linh\Project\BananaEcommerceApp\obj\Debug\net9.0\ref\BananaEcommerceApp.dll
+D:\Linh\Project\BananaEcommerceApp\obj\Debug\net9.0\BananaEcommerceApp.sourcelink.json
