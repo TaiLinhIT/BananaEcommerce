@@ -1,0 +1,6 @@
+@BananaEcommerceApp_HostAddress = http://localhost:5274
+
+GET {{BananaEcommerceApp_HostAddress}}
+Accept: application/json
+
+###
